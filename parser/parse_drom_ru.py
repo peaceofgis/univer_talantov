@@ -1,8 +1,5 @@
 from datetime import datetime
 import re
-import random
-from time import sleep
-import lxml
 import requests
 import sqlalchemy as sa
 from sqlalchemy import create_engine
